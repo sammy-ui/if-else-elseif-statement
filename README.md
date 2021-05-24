@@ -1,3 +1,3 @@
-# if-else-elseif-statement
+# java-if-else-elseif-statement
 
 school project
